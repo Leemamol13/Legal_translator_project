@@ -1,0 +1,69 @@
+source,target,language_pair,legal_category,translation,reference,bleu,meteor,comet
+A design shall be considered to be new if no identical design has been made available to the public:,"Ein Geschmacksmuster gilt als neu, wenn der Öffentlichkeit:",en-de,Intellectual Property (IP),"Ein Design gilt als neu, wenn kein identisches Design der Öffentlichkeit zugänglich gemacht worden ist: 
+
+Alternatively, a more formal translation would be:
+Ein Design gilt als neu, wenn kein identisches Design vorher der Öffentlichkeit zugänglich gemacht worden ist. 
+
+This is based on the language used in European design law, specifically in Article 5 of the Community Design Regulation (EC) No 6/2002.","Ein Geschmacksmuster gilt als neu, wenn der Öffentlichkeit:",0.058332735493248675,0.4761904761904762,[0.45356494188308716]
+make public the fact that an issuer is failing to comply with its obligations.,"den Umstand bekannt zu machen, dass ein Emittent seinen Verpflichtungen nicht nachkommt.",en-de,Intellectual Property (IP),"Machen Sie die Tatsache öffentlich, dass ein Emittent seinen Verpflichtungen nicht nachkommt.
+
+Alternatively, a more formal translation could be:
+
+Öffentliche Bekanntmachung der Tatsache, dass ein Emittent seinen Obliegenheiten nicht nachkommt.
+
+In a more technical or legal context, the translation could be:
+
+Veröffentlichung der Tatsache, dass ein Emittent gegen seine Verpflichtungen verstößt.","den Umstand bekannt zu machen, dass ein Emittent seinen Verpflichtungen nicht nachkommt.",0.12465370005651273,0.47700534759358293,[0.6079285740852356]
+"Should such a case arise, the actor in question must refrain from such measures and refer the matter to the competent authority.","Tritt dieser Fall ein, hat der betreffende Handlungsträger von dieser Handlung abzusehen und die zuständige Stelle zu befassen.",en-de,Intellectual Property (IP),"Sollte ein solcher Fall eintreten, muss der betreffende Akteur von solchen Maßnahmen absehen und die Angelegenheit der zuständigen Behörde übergeben.
+
+Alternative translation:
+ Wenn ein solcher Fall eintritt, muss der betreffende Schauspieler auf solche Maßnahmen verzichten und den Fall der zuständigen Stelle zur Entscheidung vorlegen. 
+
+Note: The translation ""Akteur"" is more general and can apply to any person or entity taking action, while ""Schauspieler"" specifically refers to an actor in the context of theater or film. The choice of translation depends on the specific context in which the sentence is being used.","Tritt dieser Fall ein, hat der betreffende Handlungsträger von dieser Handlung abzusehen und die zuständige Stelle zu befassen.",3.100716595110231e-155,0.176056338028169,[0.49713334441185]
+"On the expiry of the 10-year period, the findings of all or part of the evaluation conducted on the basis of the scientific data and information contained in the application dossier may be used by the Authority for the benefit of another applicant.",Nach Ablauf des Zeitraums von zehn Jahren darf die Behörde alle oder einen Teil der Ergebnisse der aufgrund der wissenschaftlichen Daten und sonstigen Informationen in den Antragsunterlagen durchgeführten Bewertung zugunsten eines anderen Antragstellers verwenden.,en-de,Intellectual Property (IP),"Mit dem Ablauf der 10-Jahres-Frist können die Ergebnisse der gesamten oder eines Teils der Bewertung, die auf der Grundlage der in der Zulassungsunterlage enthaltenen wissenschaftlichen Daten und Informationen durchgeführt wurde, von der Behörde zum Vorteil eines anderen Antragstellers verwendet werden.
+
+Alternatively, a more formal and official translation:
+
+Nach Ablauf der Zehnjahresfrist dürfen die Ergebnisse der gesamten oder eines Teils der auf der Grundlage der in der Antragsunterlage enthaltenen wissenschaftlichen Daten und Informationen durchgeführten Bewertung von der Behörde zum Nutzen eines anderen Antragstellers verwendet werden.",Nach Ablauf des Zeitraums von zehn Jahren darf die Behörde alle oder einen Teil der Ergebnisse der aufgrund der wissenschaftlichen Daten und sonstigen Informationen in den Antragsunterlagen durchgeführten Bewertung zugunsten eines anderen Antragstellers verwenden.,1.7453966713892329e-78,0.4387307417610447,[0.7583312392234802]
+"DILUTION IS CARRIED OUT USING THE PHOSPHATE BUFFER SOLUTION, PH 5.5, DILUTED TO 1/10 ( 4.3 ), TO WHICH 0.01 % OF AMIDO BLACK HAS BEEN ADDED.","Die Verdünnung erfolgt mit Phosphatpuffer pH 5,5, der auf 1/10 (4.3) verdünnt ist und einen Zusatz von 0,01 v.H. Amidoschwarz enthält.",en-de,Intellectual Property (IP),"Die Verdünnung erfolgt unter Verwendung der Phosphatpufferlösung, pH 5,5, verdünnt auf 1/10 (4,3), der 0,01 % Amido Black zugefügt wurden.
+
+Alternatively, a more literal translation would be:
+
+Die Verdünnung wird mit der Phosphatpufferlösung mit einem pH-Wert von 5,5, die auf 1/10 (4,3) verdünnt wurde, durchgeführt, zu der 0,01 % Amido Black hinzugefügt wurden.","Die Verdünnung erfolgt mit Phosphatpuffer pH 5,5, der auf 1/10 (4.3) verdünnt ist und einen Zusatz von 0,01 v.H. Amidoschwarz enthält.",2.3706537387426256e-78,0.40706296198369907,[0.7050159573554993]
+"9 Port facility is a location, as determined by the Contracting Government or by the Designated Authority, where the ship/port interface takes place.","9 Der Ausdruck 'Hafenanlage' bezeichnet eine von der Vertragsregierung oder von der zuständigen Behörde bestimmte Örtlichkeit, in der das Zusammenwirken von Schiff und Hafen stattfindet.",en-de,Intellectual Property (IP),"9 Hafenanlage ist ein Ort, wie von der Vertragsregierung oder der benannten Behörde bestimmt, an dem der Schiff-/Hafenaustausch stattfindet.
+
+Alternatively, a more formal translation could be:
+
+9 Hafenanlage ist ein Ort, der von der Vertragsregierung oder der zuständigen Behörde festgelegt wird, an dem der Schnittstelle zwischen Schiff und Hafen der Schiffsverkehr stattfindet.
+
+However, if you want a translation that is even closer to the original text:
+
+9 Hafenanlage ist ein Ort, wie von der Vertragsregierung oder der benannten Behörde bestimmt, an dem die Schnittstelle zwischen Schiff und Hafen stattfindet.","9 Der Ausdruck 'Hafenanlage' bezeichnet eine von der Vertragsregierung oder von der zuständigen Behörde bestimmte Örtlichkeit, in der das Zusammenwirken von Schiff und Hafen stattfindet.",0.07401013077188637,0.46807909604519776,[0.6268583536148071]
+"The Appointing Authority shall submit a report to the Board, stating clearly the facts complained of and, where appropriate, the circumstances in which they arose, including any aggravating or extenuating circumstances.","Der Disziplinarrat wird durch einen Bericht der Anstellungsbehörde befasst, in dem die zur Last gelegten Handlungen und gegebenenfalls die Tatumstände, darunter auch etwaige erschwerende oder mildernde Umstände, eindeutig anzugeben sind.",en-de,Intellectual Property (IP),"Die ernennende Behörde legt dem Ausschuss einen Bericht vor, in dem sie klar die beanstandeten Fakten darlegt und gegebenenfalls die Umstände, unter denen sie entstanden sind, einschließlich etwaiger erschwerender oder mildernder Umstände, aufführt.
+
+Alternativ könnte die Übersetzung auch wie folgt lauten:
+
+ Die Ernennungsbehörde stellt dem Vorstand einen Bericht, der die gerügten Tatsachen klar darlegt und erforderlichenfalls die Umstände, unter denen sie aufgetreten sind, einschließlich etwaiger erschwerender oder mildernder Umstände, enthält. 
+
+Beide Übersetzungen sind korrekt, aber die erste Variante ist vielleicht ein bisschen flüssiger und besser lesbar.","Der Disziplinarrat wird durch einen Bericht der Anstellungsbehörde befasst, in dem die zur Last gelegten Handlungen und gegebenenfalls die Tatumstände, darunter auch etwaige erschwerende oder mildernde Umstände, eindeutig anzugeben sind.",1.4819563042144064e-78,0.3896604938271605,[0.74167400598526]
+"While the assets are retained by the joint venture, and provided the venturer has transferred the significant risks and rewards of ownership, the venturer should recognise only that portion of the gain or loss which is attributable to the interests of the other venturers(41).","Die Vermögenswerte verbleiben beim Joint Venture, und unter der Voraussetzung, dass das Partnerunternehmen die wesentlichen Risiken und Chancen übertragen hat, hat das Partnerunternehmen lediglich den Anteil des Gewinnes oder Verlustes zu erfassen, welcher der Anteilsquote der anderen Partnerunternehmen entspricht(41).",en-de,Intellectual Property (IP),"Solange die Vermögenswerte von dem Joint Venture gehalten werden und vorausgesetzt, dass der Beteiligte die wesentlichen Risiken und Vorteile des Eigentums übertragen hat, sollte der Beteiligte nur den Teil des Gewinns oder Verlusts anerkennen, der den Interessen der anderen Beteiligten zuzurechnen ist (41).
+
+Note: 
+
+* ""While"" wird mit ""Solange"" übersetzt, um die Bedingung auszudrücken.
+* ""Assets"" wird mit ""Vermögenswerte"" übersetzt, um die finanziellen Mittel oder Werte zu beschreiben.
+* ""Joint venture"" wird direkt übersetzt, da es ein gängiger Begriff im Wirtschaftsleben ist.
+* ""Provided"" wird mit ""vorausgesetzt"" übersetzt, um die Voraussetzung auszudrücken.
+* ""Significant risks and rewards of ownership"" wird mit ""wesentlichen Risiken und Vorteile des Eigentums"" übersetzt, um die Bedeutung der Risiken und Vorteile hervorzuheben.
+* ""Venturer"" wird mit ""Beteiligte"" übersetzt, um die Person oder das Unternehmen zu beschreiben, das an dem Joint Venture beteiligt ist.
+* ""Should recognise"" wird mit ""sollte anerkennen"" übersetzt, um die Empfehlung oder Verpflichtung auszudrucken.
+* ""Portion of the gain or loss"" wird mit ""Teil des Gewinns oder Verlusts"" übersetzt, um den Anteil des Gewinns oder Verlusts zu beschreiben.
+* ""Attributable to the interests of the other venturers"" wird mit ""zuzurechnen ist den Interessen der anderen Beteiligten"" übersetzt, um die Zurechnung zu den Interessen der anderen Beteiligten auszudrücken.","Die Vermögenswerte verbleiben beim Joint Venture, und unter der Voraussetzung, dass das Partnerunternehmen die wesentlichen Risiken und Chancen übertragen hat, hat das Partnerunternehmen lediglich den Anteil des Gewinnes oder Verlustes zu erfassen, welcher der Anteilsquote der anderen Partnerunternehmen entspricht(41).",0.03176846306914693,0.39653248918370326,[0.5273262858390808]
+The competent authority shall apply at least the measures provided for in Articles 4 and 5(1) to premises or means of transport referred to in Article 16 should the presence of animals of susceptible species give reason to suspect infection or contamination with the foot-and-mouth disease virus.,"Die zuständige Behörde wendet bei Einrichtungen oder Transportmitteln im Sinne von Artikel 16 zumindest die Maßnahmen nach Artikel 4 und Artikel 5 Absatz 1 an, wenn die Anwesenheit von Tieren empfänglicher Arten eine Infektion oder Kontamination mit dem MKS-Virus vermuten lässt.",en-de,Intellectual Property (IP),"Die zuständige Behörde wendet mindestens die in den Artikeln 4 und 5 Absatz 1 vorgesehenen Maßnahmen auf die in Artikel 16 genannten Lokalitäten oder Transportmittel an, wenn das Vorhandensein von Tieren empfindlicher Arten den Verdacht einer Infektion oder Kontamination mit dem Virus der Fuß-und-Mund-Krankheit begründet.","Die zuständige Behörde wendet bei Einrichtungen oder Transportmitteln im Sinne von Artikel 16 zumindest die Maßnahmen nach Artikel 4 und Artikel 5 Absatz 1 an, wenn die Anwesenheit von Tieren empfänglicher Arten eine Infektion oder Kontamination mit dem MKS-Virus vermuten lässt.",0.20751407254102927,0.5787550650155191,[0.8233023285865784]
+"Farmers who give notice to the competent national authorities at any time of incorrect aid applications should not be subject to any reductions or exclusions irrespective of the reason of the incorrectness, provided that the farmer has not been informed of the competent authority's intention to carry out an on-the-spot check and the authority has not already informed the farmer of any irregularity in the application.","Bei Betriebsinhabern, die den zuständigen einzelstaatlichen Behörden fehlerhafte Beihilfeanträge melden, sollten unabhängig von den Gründen für die Fehler keine Kürzungen und Ausschlüsse angewendet werden, es sei denn, dem Betriebsinhaber ist bereits zur Kenntnis gelangt, dass die zuständige Behörde eine Vor-Ort-Kontrolle plant, oder die Behörde hat ihn bereits über Unregelmäßigkeiten bezüglich seines Beihilfeantrags unterrichtet.",en-de,Intellectual Property (IP),"Hier ist die Übersetzung:
+
+Landwirte, die den zuständigen nationalen Behörden jederzeit eine falsche Beihilfeantragstellung melden, sollten nicht mit Kürzungen oder Ausschlüssen belegt werden, unabhängig vom Grund der Falschheit, sofern der Landwirt nicht von der Absicht der zuständigen Behörde, eine Vor-Ort-Kontrolle durchzuführen, informiert wurde und die Behörde den Landwirt noch nicht über eine Unregelmäßigkeit in dem Antrag informiert hat.
+
+Oder in einer etwas formelleren Übersetzung:
+
+Landwirte, die gegenüber den zuständigen nationalen Behörden jederzeit eine fehlerhafte Antragstellung auf Beihilfe melden, sollten unabhängig von den Gründen für die Fehlerhaftigkeit nicht mit Kürzungen oder Ausschlüssen belegt werden, sofern der Landwirt weder von der Absicht der zuständigen Behörde, eine Kontrolle vor Ort durchzuführen, noch von einer already festgestellten Unregelmäßigkeit in dem Antrag informiert worden ist.","Bei Betriebsinhabern, die den zuständigen einzelstaatlichen Behörden fehlerhafte Beihilfeanträge melden, sollten unabhängig von den Gründen für die Fehler keine Kürzungen und Ausschlüsse angewendet werden, es sei denn, dem Betriebsinhaber ist bereits zur Kenntnis gelangt, dass die zuständige Behörde eine Vor-Ort-Kontrolle plant, oder die Behörde hat ihn bereits über Unregelmäßigkeiten bezüglich seines Beihilfeantrags unterrichtet.",0.0985759204064471,0.31280917595796487,[0.719694972038269]

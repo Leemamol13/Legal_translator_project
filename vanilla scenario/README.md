@@ -1,1 +1,0 @@
-# Vanilla scenario placeholder

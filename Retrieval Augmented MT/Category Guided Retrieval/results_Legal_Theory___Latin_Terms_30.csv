@@ -1,0 +1,135 @@
+source,target,language_pair,legal_category,translation,reference,bleu,meteor,comet
+"The application shall show that the applicant exists as a legal person and has the financial and operational capacity to complete the proposed action or work programme, subject to Article 176(4).","Der Antrag dient dem Nachweis der rechtlichen Existenz des Antragstellers sowie seiner finanziellen und operativen Fähigkeit, die vorgeschlagene Maßnahme bzw. das vorgeschlagene Arbeitsprogramm vorbehaltlich des Artikels 176 Absatz 4 vollständig durchzuführen.",en-de,Legal Theory & Latin Terms,"Der Antrag muss nachweisen, dass der Antragsteller als Rechtsperson existiert und über die finanziellen und operativen Kapazitäten verfügt, die vorgeschlagene Maßnahme oder das vorgeschlagene Arbeitsprogramm unter Beachtung des Artikels 176 Absatz 4 durchzuführen.","Der Antrag dient dem Nachweis der rechtlichen Existenz des Antragstellers sowie seiner finanziellen und operativen Fähigkeit, die vorgeschlagene Maßnahme bzw. das vorgeschlagene Arbeitsprogramm vorbehaltlich des Artikels 176 Absatz 4 vollständig durchzuführen.",0.2492914078067586,0.5970614366604342,[0.635162353515625]
+Article I,Artikel I,en-de,Legal Theory & Latin Terms,Artikel I,Artikel I,1.491668146240062e-154,0.9375,[1.31167471408844]
+I. All persons having completed their compulsory education (having reached school-leaving age) who carried out farm work on the holding under survey during the 12 months up to the survey day.,"I. Alle Personen ab Ende des schulpflichtigen Alters, die in den letzten zwölf Monaten vor dem Tag der Erhebung landwirtschaftliche Arbeiten innerhalb des befragten landwirtschaftlichen Betriebs verrichtet haben.",en-de,Legal Theory & Latin Terms,"I. Alle Personen, die ihre Schulpflicht erfüllt haben (das Schulalter erreicht haben) und in den 12 Monaten vor dem Erhebungsstag landwirtschaftliche Arbeiten auf dem betreffenden Betrieb ausgeführt haben.
+
+Alternatively, a more formal translation:
+
+I. Alle Personen, die ihre Vollzeitschulpflicht abgeschlossen haben (das Mindestschulalter erreicht haben) und im Zeitraum von 12 Monaten vor dem Stichtag landwirtschaftliche Tätigkeiten auf dem im Rahmen der Erhebung betrachteten landwirtschaftlichen Betrieb ausgeübt haben.
+
+Note: ""Schulpflicht"" refers to compulsory education, and ""Schulalter"" refers to the age at which one is no longer required to attend school. ""Erhebungsstag"" is a common term in statistics and surveys, equivalent to ""survey day"". ""Betrachteter Betrieb"" means ""the holding under survey"".","I. Alle Personen ab Ende des schulpflichtigen Alters, die in den letzten zwölf Monaten vor dem Tag der Erhebung landwirtschaftliche Arbeiten innerhalb des befragten landwirtschaftlichen Betriebs verrichtet haben.",1.2826794989407533e-78,0.3382170048836715,[-1.1159522533416748]
+"""- the third and fourth paragraphs of Article 6 shall apply from 1 January 2003,"".","""- gilt Artikel 6 Unterabsätze 3 und 4 erst ab 1. Januar 2003,"".",en-de,Legal Theory & Latin Terms,"""- die Absätze 3 und 4 des Artikels 6 finden ab dem 1. Januar 2003 Anwendung,"".","""- gilt Artikel 6 Unterabsätze 3 und 4 erst ab 1. Januar 2003,"".",0.23632009599741205,0.7934426229508196,[0.7674458026885986]
+Article 28(5) shall apply.,Es gilt Artikel 28 Absatz 5.,en-de,Legal Theory & Latin Terms,Artikel 28 Absatz 5 gilt.,Es gilt Artikel 28 Absatz 5.,0.4760116549244004,0.8152173913043477,[0.8824562430381775]
+It shall be granted only if the official's spouse engages in a gainful activity at least half-time.,"Die Dienstbefreiung wird nur gewährt, wenn der Ehegatte des Beamten zumindest halbzeitlich erwerbstätig ist.",en-de,Legal Theory & Latin Terms,"Es wird nur gewährt, wenn der Ehepartner des Amtsträgers mindestens halbtags eine erwerbsmäßige Tätigkeit ausübt.","Die Dienstbefreiung wird nur gewährt, wenn der Ehegatte des Beamten zumindest halbzeitlich erwerbstätig ist.",0.30277029197532096,0.48379270186335405,[0.529853880405426]
+the structure in which it is presented shall be the same as that of the budget itself;,diese Rechnung folgt der Gliederung des Haushaltsplans;,en-de,Legal Theory & Latin Terms,"Die Struktur, in der sie präsentiert wird, soll dieselbe sein wie die des Haushaltsplans selbst; 
+
+Alternatively, a more formal translation could be:
+
+Die Gliederung, in der sie vorgelegt wird, muss mit der des Haushaltsplans selbst übereinstimmen;",diese Rechnung folgt der Gliederung des Haushaltsplans;,3.3820843419568566e-155,0.3206896551724138,[-1.3381755352020264]
+"Where the difference established in accordance with paragraph 3 of this Article is more than 20 %, the farmer shall be excluded once again from receiving aid up to an amount corresponding to the difference between the number of animals declared and the number of animals determined in accordance with Article 57(3).","Beläuft sich die gemäß Absatz 3 dieses Artikels bestimmte Differenz auf mehr als 20 %, so ist der Betriebsinhaber ein weiteres Mal bis zur Höhe eines Betrags, der der Differenz zwischen der angegebenen Zahl der Tiere und der gemäß Artikel 57 Absatz 3 ermittelten entspricht, von der Beihilfegewährung auszuschließen.",en-de,Legal Theory & Latin Terms,"Wo die nach Absatz 3 dieses Artikels festgestellte Differenz mehr als 20 % beträgt, wird dem Landwirt erneut die Gewährung von Beihilfen bis zu einem Betrag, der der Differenz zwischen der angegebenen Tierzahl und der nach Artikel 57 Absatz 3 ermittelten Tierzahl entspricht, verwehrt.","Beläuft sich die gemäß Absatz 3 dieses Artikels bestimmte Differenz auf mehr als 20 %, so ist der Betriebsinhaber ein weiteres Mal bis zur Höhe eines Betrags, der der Differenz zwischen der angegebenen Zahl der Tiere und der gemäß Artikel 57 Absatz 3 ermittelten entspricht, von der Beihilfegewährung auszuschließen.",0.2924824954754174,0.5326792527624994,[0.6348335146903992]
+"For the purposes of applying the first subparagraph to ""cooperative groups"", the competent authorities must take into account the public financial commitment of these groups with respect to other financial entities.",Für die Zwecke der Anwendung des Unterabsatzes 1 auf genossenschaftlich organisierte Unternehmensgruppen berücksichtigen die zuständigen Behörden die öffentlichen finanziellen Verpflichtungen dieser Gruppen gegenüber anderen Finanzunternehmen.,en-de,Legal Theory & Latin Terms,"Zum Zwecke der Anwendung des ersten Unterabsatzes auf ""Genossenschaftsgruppen"" müssen die zuständigen Behörden die öffentliche Finanzverpflichtung dieser Gruppen gegenüber anderen Finanzinstituten berücksichtigen.",Für die Zwecke der Anwendung des Unterabsatzes 1 auf genossenschaftlich organisierte Unternehmensgruppen berücksichtigen die zuständigen Behörden die öffentlichen finanziellen Verpflichtungen dieser Gruppen gegenüber anderen Finanzunternehmen.,0.2920529034990032,0.5918949083011583,[0.7410033345222473]
+"This includes the target company in the case of a contested bid, in which case the details should be completed as far as is possible.","Bei einem feindlichen Übernahmeangebot gehört hierzu auch das Unternehmen, das übernommen werden soll; hierzu sind Angaben im Bereich des Möglichen zu machen.",en-de,Legal Theory & Latin Terms,"Dies umfasst das Zielunternehmen im Falle eines umstrittenen Angebots, in dem die Details so weit wie möglich vervollständigt werden sollten.
+
+Alternativ:
+Dies schließt das Zielunternehmen im Falle eines streitigen Angebots ein, wobei die Details soweit wie möglich vervollständigt werden sollten.","Bei einem feindlichen Übernahmeangebot gehört hierzu auch das Unternehmen, das übernommen werden soll; hierzu sind Angaben im Bereich des Möglichen zu machen.",1.1008876702055895e-231,0.11111111111111112,[-0.09514453262090683]
+a regulated entity within the meaning of Article 1 is at the head of the group or at least one of the subsidiaries in the group is a regulated entity within the meaning of Article 1;,"An der Spitze der Gruppe steht ein beaufsichtigtes Unternehmen im Sinne des Artikels 1 oder mindestens eines der Tochterunternehmen in der Gruppe ist ein beaufsichtigtes Unternehmen im Sinne des Artikels 1,",en-de,Legal Theory & Latin Terms,"Eine gemäß Artikel 1 regulierte Einheit steht an der Spitze der Gruppe oder mindestens eines der Tochterunternehmen in der Gruppe ist eine gemäß Artikel 1 regulierte Einheit;
+
+Alternatively, a more formal translation:
+
+Ein nach Artikel 1 reguliertes Unternehmen steht an der Spitze der Gruppe oder zumindest eines der Tochterunternehmen in der Gruppe ist ein nach Artikel 1 reguliertes Unternehmen;
+
+Note: The term ""regulated entity"" can be translated to German as ""regulierte Einheit"" or ""reguliertes Unternehmen"", both are acceptable, but ""reguliertes Unternehmen"" might be more common in formal or legal contexts.","An der Spitze der Gruppe steht ein beaufsichtigtes Unternehmen im Sinne des Artikels 1 oder mindestens eines der Tochterunternehmen in der Gruppe ist ein beaufsichtigtes Unternehmen im Sinne des Artikels 1,",0.11265069490593944,0.5607330442752397,[-1.243666648864746]
+QUALIFICATION FOR SUBSIDIARY PROTECTION,VORAUSSETZUNGEN FÜR DEN ANSPRUCH AUF SUBSIDIÄREN SCHUTZ,en-de,Legal Theory & Latin Terms,"Die Übersetzung ins Deutsche lautet:
+
+**VORAUSSETZUNGEN FÜR SUBSIDIÄREN SCHUTZ** 
+
+Alternativ kann man auch folgende Übersetzungen verwenden:
+
+* **VORAUSSETZUNGEN FÜR EINEN SUBSIDIÄREN SCHUTZSTATUS**
+* **QUALIFIZIERUNG FÜR DEN SUBSIDIÄREN SCHUTZ**
+* **ANFORDERUNGEN AN DEN SUBSIDIÄREN SCHUTZ**
+
+Je nach Kontext und spezifischer Terminologie kann jedoch die erste Übersetzung **VORAUSSETZUNGEN FÜR SUBSIDIÄREN SCHUTZ** am geeignetsten sein.",VORAUSSETZUNGEN FÜR DEN ANSPRUCH AUF SUBSIDIÄREN SCHUTZ,3.4011186646961274e-155,0.3231884057971015,[-0.37475448846817017]
+Article 4 is replaced by the following:,2. Artikel 4 erhält folgende Fassung:,en-de,Legal Theory & Latin Terms,Artikel 4 wird durch folgendes ersetzt:,2. Artikel 4 erhält folgende Fassung:,6.684949609530091e-155,0.39952531645569617,[0.5686035752296448]
+"A bank is exposed to liquidity risk and to risks arising from currency fluctuations, interest rate movements, changes in market prices and from counterparty failure.","Eine Bank ist einem Liquiditätsrisiko und anderen Risiken ausgesetzt, die sich aus Währungsschwankungen, Zinsänderungen, Veränderungen der Marktpreise oder aus Adressenausfällen ergeben.",en-de,Legal Theory & Latin Terms,"Eine Bank ist Liquiditätsrisiken und Risiken ausbruch, die durch Währungsschwankungen, Zinsänderungen, Veränderungen der Marktpreise und durch das Ausfallrisiko von Kontrahenten entstehen.
+
+Alternatively, a more formal and technical translation:
+
+Eine Bank ist Liquiditätsrisiken sowie Risiken aus Währungs-, Zins-, Marktpreis- und Ausfallrisiken von Kontrahenten ausgesetzt.","Eine Bank ist einem Liquiditätsrisiko und anderen Risiken ausgesetzt, die sich aus Währungsschwankungen, Zinsänderungen, Veränderungen der Marktpreise oder aus Adressenausfällen ergeben.",0.1541845178755306,0.4764968208561827,[-0.39490005373954773]
+«lease» shall mean lease or similar types of temporary transactions;,"""Pacht"": Pacht oder ähnliche Arten von befristeten Geschäften.",en-de,Legal Theory & Latin Terms,"Hier ist die Übersetzung ins Deutsche:
+
+""«lease»"" bedeutet Mietvertrag oder ähnliche Arten von zeitlich befristeten Transaktionen;
+
+Alternativ könnte man auch übersetzen:
+
+""«lease»"" umfasst Mietverhältnisse oder andere ähnliche Arten von vorübergehenden Rechtsgeschäften;
+
+Oder:
+
+""«lease»"" bezeichnet ein Miet- oder Pachtverhältnis sowie ähnliche Arten von zeitlich begrenzten Transaktionen;","""Pacht"": Pacht oder ähnliche Arten von befristeten Geschäften.",0.04140082462432975,0.33476548514142496,[-0.2599922716617584]
+the grouping of single consignments;,"die Zusammenfassung von Einzelladungen,",en-de,Legal Theory & Latin Terms,"Die Gruppierung von Einzelsendungen; 
+
+Alternatively, it can also be translated as:
+
+Die Zusammenfassung von Einzelladungen; 
+
+or 
+
+Die Konsolidierung von Einzelsendungen; 
+
+The most suitable translation would depend on the context in which the phrase is used. However, ""Die Gruppierung von Einzelsendungen"" is a common and neutral translation that can be used in many situations.","die Zusammenfassung von Einzelladungen,",9.297005462057298e-79,0.2314814814814815,[-1.685718297958374]
+"Reinforcement and extension of the scope of the RAPEX alert system, taking developments in market surveillance information exchange into account",Ausbau und Erweiterung des Anwendungsbereichs des RAPEX-Warnsystems unter Berücksichtigung der Entwicklung des Informationsaustauschs im Rahmen der Marktüberwachung,en-de,Legal Theory & Latin Terms,Verstärkung und Erweiterung des Anwendungsbereichs des RAPEX-Warnsystems unter Berücksichtigung der Entwicklungen im Informationsaustausch der Marktaufsicht.,Ausbau und Erweiterung des Anwendungsbereichs des RAPEX-Warnsystems unter Berücksichtigung der Entwicklung des Informationsaustauschs im Rahmen der Marktüberwachung,0.5066626941093553,0.6048652202498356,[0.7181657552719116]
+A third party who may avail himself of the provisions of paragraph 6 may bring third party proceedings against the decision re-establishing the rights of the applicant for or holder of the registered Community design within a period of two months as from the date of publication of the mention of re-establishment of those rights.,"Dritte, die sich auf Absatz 6 berufen können, können gegen die Entscheidung über die Wiedereinsetzung des Anmelders oder des Inhabers des eingetragenen Gemeinschaftsgeschmacksmusters in den vorigen Stand binnen zwei Monaten nach dem Zeitpunkt der Bekanntmachung des Hinweises auf die Wiedereinsetzung in den vorigen Stand Drittwiderspruch einlegen.",en-de,Legal Theory & Latin Terms,"Eine dritte Partei, die sich auf die Bestimmungen des Absatzes 6 berufen kann, kann innerhalb einer Frist von zwei Monaten ab dem Datum der Veröffentlichung der Erwähnung der Wiederherstellung dieser Rechte gegen die Entscheidung über die Wiederherstellung der Rechte des Anmelders oder Inhabers des eingetragenen Gemeinschaftsgeschmacksmusters Drittwiderspruch einlegen.
+
+Alternatively, a more formal translation could be:
+Eine dritte Partei, die sich auf die Bestimmungen des Absatzes 6 berufen kann, kann innerhalb einer Frist von zwei Monaten ab dem Datum der Veröffentlichung der Erwähnung der Wiederherstellung dieser Rechte einen Drittwiderspruch gegen die Entscheidung über die Wiederherstellung der Rechte des Antragstellers oder des Inhabers des eingetragenen Gemeinschaftsgeschmacksmusters einlegen. 
+
+Note: The translation is based on the language and terminology used in the context of European Union law, particularly in the field of intellectual property. 
+
+Here is the breakdown:
+
+- ""A third party"" is translated to ""eine dritte Partei""
+- ""Who may avail himself of the provisions"" is translated to ""die sich auf die Bestimmungen berufen kann""
+- ""May bring third party proceedings"" is translated to ""kann...Drittwiderspruch einlegen""
+- ""Against the decision re-establishing the rights"" is translated to ""gegen die Entscheidung über die Wiederherstellung der Rechte""
+- ""Within a period of two months"" is translated to ""innerhalb einer Frist von zwei Monaten""
+- ""As from the date of publication"" is translated to ""ab dem Datum der Veröffentlichung""
+- ""Of the mention of re-establishment of those rights"" is translated to ""der Erwähnung der Wiederherstellung dieser Rechte""","Dritte, die sich auf Absatz 6 berufen können, können gegen die Entscheidung über die Wiedereinsetzung des Anmelders oder des Inhabers des eingetragenen Gemeinschaftsgeschmacksmusters in den vorigen Stand binnen zwei Monaten nach dem Zeitpunkt der Bekanntmachung des Hinweises auf die Wiedereinsetzung in den vorigen Stand Drittwiderspruch einlegen.",0.050458282393629,0.34640810681118916,[-1.4241050481796265]
+"For bluefin tuna this tolerance limit is set at 10 % of the number of fish per landing of the total bluefin tuna catches or their equivalent in percentage in weight.""","Im Fall von Rotem Thun wird diese Obergrenze auf einen zahlenmäßigen Anteil von 10 % der angelandeten Gesamtmengen an Rotem Thun oder einen äquivalenten Anteil in Gewicht festgesetzt.""",en-de,Legal Theory & Latin Terms,Für den Blauen Thunfisch liegt diese Toleranzgrenze bei 10 % der Anzahl der Fische pro Landung der gesamten Blauen-Thunfisch-Fänge oder ihrem entsprechenden Prozentsatz im Gewicht.,"Im Fall von Rotem Thun wird diese Obergrenze auf einen zahlenmäßigen Anteil von 10 % der angelandeten Gesamtmengen an Rotem Thun oder einen äquivalenten Anteil in Gewicht festgesetzt.""",1.812476696784949e-78,0.17974028716216214,[-0.24980050325393677]
+These provide a basis for selecting and applying accounting policies in the absence of explicit guidance.,"Diese bilden eine Basis zur Auswahl und Anwendung von Bilanzierungs- und Bewertungsmethoden, falls keine expliziten Anwendungsleitlinien vorhanden sind.",en-de,Legal Theory & Latin Terms,"Diese bilden eine Grundlage für die Auswahl und Anwendung von Rechnungslegungsgrundsätzen in Ermangelung einer ausdrücklichen Regelung.
+
+Alternatively, a more formal translation could be:
+
+Sie bieten eine Grundlage für die Auswahl und Anwendung der Rechnungslegungsrichtlinien in Fällen, in denen keine expliziten Vorgaben vorliegen.","Diese bilden eine Basis zur Auswahl und Anwendung von Bilanzierungs- und Bewertungsmethoden, falls keine expliziten Anwendungsleitlinien vorhanden sind.",0.0842816865856957,0.3756730298580518,[-0.4283927083015442]
+"harmonised provisions for the implementation of Article 57."";","die harmonisierten Durchführungsbestimmungen zu Artikel 57.""",en-de,Legal Theory & Latin Terms,"Harmonisierte Vorschriften für die Umsetzung des Artikels 57""; 
+
+Alternatively, a more formal translation would be:
+""Harmonisierte Bestimmungen zur Durchführung von Artikel 57""","die harmonisierten Durchführungsbestimmungen zu Artikel 57.""",4.023062361861117e-155,0.31562500000000004,[-0.7029551267623901]
+synergies with education at all levels;,"Synergien mit dem Bildungswesen auf allen Ebenen,",en-de,Legal Theory & Latin Terms,"Synergien mit der Bildung auf allen Ebenen; 
+
+Alternatively, a more formal translation could be:
+
+ Synergien mit der Bildung auf sämtlichen Bildungsebenen; 
+
+Note: The term ""sämtlichen"" is used to emphasize that all levels of education are included.","Synergien mit dem Bildungswesen auf allen Ebenen,",1.4983443292139593e-78,0.4406130268199234,[-1.602369785308838]
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at two months.,Der Zeitraum nach Artikel 5 Absatz 6 des Beschlusses 1999/468/EG wird auf zwei Monate festgelegt.,en-de,Legal Theory & Latin Terms,Die in Artikel 5 Absatz 6 der Entscheidung 1999/468/EG festgelegte Frist wird auf zwei Monate festgesetzt.,Der Zeitraum nach Artikel 5 Absatz 6 des Beschlusses 1999/468/EG wird auf zwei Monate festgelegt.,0.30277029197532096,0.6987577639751552,[0.7813100218772888]
+Article 2(1) shall be amended as follows:,2. Artikel 2 Absatz 1 wird wie folgt geändert:,en-de,Legal Theory & Latin Terms,Artikel 2 Absatz 1 wird wie folgt geändert:,2. Artikel 2 Absatz 1 wird wie folgt geändert:,0.800737402916808,0.8327617741197989,[0.9488275051116943]
+"an agricultural land of the holding, including the parcels on set aside.",landwirtschaftliche Flächen des Betriebs einschließlich stillgelegter Parzellen.,en-de,Legal Theory & Latin Terms,"Eine landwirtschaftliche Fläche des Betriebs, einschließlich der stillgelegten Parzellen.
+
+Alternatively, a more formal translation could be:
+
+Eine landwirtschaftlich genutzte Fläche des landwirtschaftlichen Betriebs, einschließlich der Flächen, die vom Anbau ausgespart sind (Stilllegungsflächen). 
+
+Note: ""Set aside"" is a term commonly used in EU agricultural policy to refer to land that is taken out of agricultural production, often as part of environmental or conservation efforts. In German, this concept is often translated as ""Stilllegung"" or ""Ausnahme von der Produktion"".",landwirtschaftliche Flächen des Betriebs einschließlich stillgelegter Parzellen.,2.937267383843976e-155,0.2071005917159764,[-1.4955966472625732]
+ARTICLE 24,ARTIKEL 24,en-de,Legal Theory & Latin Terms,ARTIKEL 24,ARTIKEL 24,1.491668146240062e-154,0.9375,[1.3303205966949463]
+"Category M3 : Vehicles used for the carriage of passengers, comprising more than eight seats in addition to the driver's seat, and having a maximum weight exceeding 5 metric tons.",Klasse M3 : Fahrzeuge für Personenbeförderung mit mehr als 8 Sitzplätzen außer dem Fahrersitz und einem Höchstgewicht üb t.,en-de,Legal Theory & Latin Terms,"Kategorie M3: Fahrzeuge, die für den Personentransport benutzt werden, mit mehr als acht Sitzplätzen zusätzlich zum Fahrersitz und mit einem zulässigen Maximalgewicht von über 5 metrischen Tonnen.",Klasse M3 : Fahrzeuge für Personenbeförderung mit mehr als 8 Sitzplätzen außer dem Fahrersitz und einem Höchstgewicht üb t.,3.1543594616476083e-78,0.48446550816219064,[0.3289012312889099]
+"Under the method, the ""actuarial value"" of the pension rights earned before the calculation date represents a past service liability, while the actuarial value of the pension rights that will be earned in the year of service beginning on the calculation date represents the ""service cost"".","Nach dieser Methode stellt der ""versicherungsmathematische Gegenwert"" der bis zum Zeitpunkt der Berechnung erworbenen Versorgungsansprüche Verpflichtungen aus vergangener Dienstzeit dar; der versicherungsmathematische Gegenwert der Versorgungsansprüche, die in dem zum Zeitpunkt der Berechnung beginnenden Dienstjahr erworben werden, wird als ""Dienstzeitaufwand"" bezeichnet.",en-de,Legal Theory & Latin Terms,"Unter dieser Methode stellen die ""barwertigen"" Ansprüche aus den vor dem Berechnungsstichtag erzielten Anwartschaften eine Vergangenheitsverpflichtung dar, während der Barwert der Anwartschaften, die im Dienstjahr, das am Berechnungsstichtag beginnt, erzielt werden, den ""Dienstekostenaufwand"" darstellt.
+
+Alternativ kann es auch wie folgt übersetzt werden:
+
+ Nach dieser Methode entspricht der Barwert der vor dem Berechnungsstichtag erworbenen Anwartschaftsrechte einer Vergangenheitsverpflichtung, während der Barwert der im Dienstjahr, das mit dem Berechnungsstichtag beginnt, erworbenen Anwartschaftsrechte den ""Dienstekostenaufwand"" repräsentiert.","Nach dieser Methode stellt der ""versicherungsmathematische Gegenwert"" der bis zum Zeitpunkt der Berechnung erworbenen Versorgungsansprüche Verpflichtungen aus vergangener Dienstzeit dar; der versicherungsmathematische Gegenwert der Versorgungsansprüche, die in dem zum Zeitpunkt der Berechnung beginnenden Dienstjahr erworben werden, wird als ""Dienstzeitaufwand"" bezeichnet.",1.3165431016798252e-78,0.2734489802582645,[0.19054636359214783]
+"""consignment"" means a quantity of sugar on a specified vessel which is actually unloaded at a European port determined by the Community;","""Partie"" eine Zuckermenge, die sich auf einem bestimmten Schiff befindet und die tatsächlich in einem bestimmten europäischen Hafen der Gemeinschaft entladen wird;",en-de,Legal Theory & Latin Terms,"""Konsignment"" bedeutet eine Menge Zucker auf einem bestimmten Schiff, die tatsächlich in einem von der Gemeinschaft bestimmten europäischen Hafen entladen wird; 
+
+Alternativ könnte man auch ""Ladung"" oder ""Lieferung"" verwenden, um den Begriff ""consignment"" zu übersetzen, je nachdem, welchen Kontext man hervorheben möchte. 
+
+Beispielsweise:
+- ""Ladung"" könnte den Fokus auf die tatsächliche Menge Zucker legen, die transportiert wird.
+- ""Lieferung"" könnte den Fokus auf den Vorgang des Entladens und der Übergabe der Zuckerlieferung an den Empfänger legen.
+
+In diesem spezifischen Kontext scheint jedoch ""Konsignment"" die präziseste Übersetzung zu sein.","""Partie"" eine Zuckermenge, die sich auf einem bestimmten Schiff befindet und die tatsächlich in einem bestimmten europäischen Hafen der Gemeinschaft entladen wird;",0.0672888739608943,0.4877402529354324,[-1.1581764221191406]
+'full trainload' means any consignment comprising one or more wagonloads transported at the same time by the same sender at the same station and forwarded with no change in train composition to the address of the same consignee at the same destination station;,"'vollständige Zugladung' eine aus einer oder mehreren Wagenladungen bestehende Sendung, die gleichzeitig von demselben Absender von demselben Bahnhof befördert wird und ohne Veränderung der Zugzusammensetzung an die Adresse desselben Empfängers an denselben Zielbahnhof verschickt wird;",en-de,Legal Theory & Latin Terms,"""'Vollzug' bedeutet jede Sendung, die aus einem oder mehreren Wagenladungen besteht, die zur gleichen Zeit von demselben Absender am selben Bahnhof transportiert werden und ohne Änderung der Zugeinsatzkonfiguration an die Adresse des selben Empfängers am selben Zielbahnhof weitergeleitet wird;""
+
+Alternatively, a more common translation for ""full trainload"" in this context would be ""Vollzug"" or ""Ganzzugladung"". 
+
+So the translation would be:
+""'Ganzzugladung' bedeutet jede Sendung, die aus einem oder mehreren Wagenladungen besteht, die zur gleichen Zeit von demselben Absender am selben Bahnhof transportiert werden und ohne Änderung der Zugeinsatzkonfiguration an die Adresse des selben Empfängers am selben Zielbahnhof weitergeleitet wird;""","'vollständige Zugladung' eine aus einer oder mehreren Wagenladungen bestehende Sendung, die gleichzeitig von demselben Absender von demselben Bahnhof befördert wird und ohne Veränderung der Zugzusammensetzung an die Adresse desselben Empfängers an denselben Zielbahnhof verschickt wird;",1.9714694893594872e-78,0.4694023924793156,[-0.20628803968429565]

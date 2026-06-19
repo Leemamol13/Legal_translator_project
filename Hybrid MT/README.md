@@ -28,7 +28,8 @@ legal_examples_with_metrics.csv → Consolidated results file.
 
 README.md → Project documentation.
 
-** How It Works**
+**** How It Works****
+
 Load corpus + glossary.
 
 Detect legal terms in sentences (excluding stoplist).
